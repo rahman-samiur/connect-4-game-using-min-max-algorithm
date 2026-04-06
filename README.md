@@ -14,8 +14,8 @@ Connect 4 Console-Game based on min-max alpha-beta pruning algorithm.
 
 # Operation
 
-Run the ![connect4.exe](https://github.com/Rahman-Samiur/connect-4-game-using-min-max-algorithm/blob/main/executable/connect4.exe) file found in the executable folder and enjoy the game
+Run the [connect4.exe](https://github.com/Rahman-Samiur/connect-4-game-using-min-max-algorithm/blob/main/executable/connect4.exe) file found in the executable folder and enjoy the game
 
 OR
 
-Run the ![main.py](https://github.com/Rahman-Samiur/connect-4-game-using-min-max-algorithm/blob/main/main.py) file and start to play.
+Run the [main.py](https://github.com/Rahman-Samiur/connect-4-game-using-min-max-algorithm/blob/main/main.py) file and start to play.
